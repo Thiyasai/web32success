@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-telegram-bot==20.3
+openai
+pydantic
+python-dotenv
+sqlalchemy
+
